@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>© 2022 Dosss. All Rights Reserved.</p>
+    <p>© 2022 <a href="https://github.com/dobi8422/dosss" target="_blank">Dosss</a>. All Rights Reserved.</p>
   </div>
 </template>
 
@@ -11,6 +11,13 @@ div {
   position: relative;
   p {
     color: rgb(109, 109, 109);
+    a {
+      text-decoration: none;
+      color: rgb(109, 109, 109);
+      &:hover {
+        color: yellowgreen;
+      }
+    }
   }
 }
 </style>

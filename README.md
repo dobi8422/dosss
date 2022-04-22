@@ -2,9 +2,11 @@
 
 [Demo](https://dobi8422.github.io/dosss/)
 
+紀錄作品、筆記
+
 ---
 
-## 使用紀錄
+## 使用
 
 * ~~使用vue-slot~~->模組化
 * vue setup definePorps, defineEmits
@@ -31,7 +33,7 @@
   * 換頁
 * data 依date排序
 * 黑白模式 -> 改變variables?
-<!-- * firebase & google sheet -> 用試算表更新?? -->
+<!-- * firebase & google sheet -> 用試算表更新?? Zapier?? -->
 <!-- * three.js -->
 <!-- * all post -> 分類 like bootstrap Accordion  RWD -->
 <!-- * 搜尋功能(文章名稱/作品名稱/分類/標籤)(all post) -->
