@@ -1,4 +1,4 @@
-import{_ as Ia}from"./index.2b2f13ee.js";import{o as ai,c as hi,e as ci,t as ui,l as Sa}from"./vendor.51adeeb9.js";const Ca=["href"],_a=["src"],ba={key:0},Aa={props:{link:{type:String},figure:{type:String},name:{type:String},outline:{type:String}},setup(e){const t=e;return(n,s)=>(ai(),hi("a",{href:t.link,target:"_blank"},[ci("img",{src:t.figure,alt:""},null,8,_a),ci("h5",null,ui(t.name),1),t.outline?(ai(),hi("p",ba,ui(t.outline),1)):Sa("",!0)],8,Ca))}};var cf=Ia(Aa,[["__scopeId","data-v-742cd1ad"]]);/**
+import{_ as Ia}from"./index.e62ce6c7.js";import{o as ai,c as hi,e as ci,t as ui,l as Sa}from"./vendor.51adeeb9.js";const Ca=["href"],_a=["src"],ba={key:0},Aa={props:{link:{type:String},figure:{type:String},name:{type:String},outline:{type:String}},setup(e){const t=e;return(n,s)=>(ai(),hi("a",{href:t.link,target:"_blank"},[ci("img",{src:t.figure,alt:""},null,8,_a),ci("h5",null,ui(t.name),1),t.outline?(ai(),hi("p",ba,ui(t.outline),1)):Sa("",!0)],8,Ca))}};var cf=Ia(Aa,[["__scopeId","data-v-742cd1ad"]]);/**
  * @license
  * Copyright 2017 Google LLC
  *
