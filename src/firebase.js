@@ -3,12 +3,12 @@ import { getFirestore } from 'firebase/firestore'
 import { getStorage } from 'firebase/storage'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyA15yKwpwtquZLmednZ2Z6L4OiBdKsz_a4',
-  authDomain: 'dosssblog.firebaseapp.com',
-  projectId: 'dosssblog',
-  storageBucket: 'dosssblog.appspot.com',
-  messagingSenderId: '435745335729',
-  appId: '1:435745335729:web:2c88c497d27aeeb77c3590'
+  apiKey: 'XXXXXXXXXXXXXXX',
+  authDomain: 'XXXXXXXXXXXXXXX',
+  projectId: 'XXXXXXXXXXXXXXX',
+  storageBucket: 'XXXXXXXXXXXXXXX',
+  messagingSenderId: 'XXXXXXXXXXXXXXX',
+  appId: 'XXXXXXXXXXXXXXX'
 }
 
 const firebaseApp = initializeApp(firebaseConfig)
